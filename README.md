@@ -119,6 +119,8 @@ pip install -r requirements.txt
 # Run the dashboard
 python physical_activity_dashboard.py
 
+---
+
 **## requirements.txt**
 pandas>=1.5.0
 numpy>=1.23.0
